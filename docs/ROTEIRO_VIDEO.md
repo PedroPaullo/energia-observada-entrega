@@ -60,12 +60,13 @@ O produto também não diz que o aumento de interrupções prova uma causa. Ele 
 
 ## Bloco 5 — Atualização mensal e escala (4:15–5:00)
 
-**[olhar para a tela e mostrar o README/workflow]**
+**[olhar para a tela e mostrar a tela de atualização mensal]**
 
-“A ANEEL atualiza essa fonte mensalmente. O pipeline separa ingestão, validação, transformação e publicação. A aquisição registra a origem e o hash; a validação confere schema e integridade; a publicação só promove uma versão depois das verificações. O workflow pode executar essa rotina sem reprocessamento manual na interface.
+“A ANEEL atualiza essa fonte mensalmente. O pipeline separa ingestão, validação, transformação e publicação. A aquisição registra a origem e o hash; a validação confere schema e integridade; a publicação só promove uma versão depois das verificações. A rotina automatizada pode executar esse processo sem reprocessamento manual na interface.
 
 **[olhar para a câmera]**
 
 O resultado é uma triagem repetível: selecionar um conjunto, entender por que ele foi destacado, abrir o Dossiê, conferir os registros originais e exportar as evidências. O Energia Observada não promete explicar a causa. Ele torna a próxima investigação mais rápida, rastreável e limitada ao que os dados realmente permitem afirmar.”
 
 **Tempo acumulado: 5:00.**
+
