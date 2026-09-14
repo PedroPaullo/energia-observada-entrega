@@ -9,8 +9,8 @@ O usuário é um analista de qualidade, operação ou inteligência. Ele recebe 
 No Windows, dê duplo clique em [`abrir-demo.cmd`](abrir-demo.cmd). Ele instala as dependências, publica a amostra e abre `http://localhost:8502`.
 
 ```powershell
-git clone https://github.com/PedroPaullo/zeki-energia-observada.git
-cd zeki-energia-observada
+git clone https://github.com/PedroPaullo/energia-observada-entrega.git
+cd energia-observada-entrega
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip setuptools wheel
@@ -91,3 +91,4 @@ git log --reverse --oneline
 ```
 
 Leia [`docs/BRIEF_PRODUTO.md`](docs/BRIEF_PRODUTO.md), [`docs/PRD.md`](docs/PRD.md), [`docs/MATRIZ_REQUISITOS.md`](docs/MATRIZ_REQUISITOS.md), [`docs/RELATORIO_VALIDACAO.md`](docs/RELATORIO_VALIDACAO.md) e [`docs/ROTEIRO_VIDEO.md`](docs/ROTEIRO_VIDEO.md). A cola final é gerada em `output/pdf/cola-video-energia-observada.pdf` por `python scripts\gerar_cola_video.py`. Para regenerá-la, instale antes `python -m pip install -e ".[presentation]"`.
+
