@@ -29,7 +29,7 @@ def main():
       ['1:00-2:30','Fila; apontar para JUREMA e aviso da amostra','“Esta tela mostra quatro conjuntos da Companhia Energética do Ceará, em julho de 2026. A fila é ordenada por variação absoluta de afetações reportadas. JUREMA aparece primeiro: 729 registros atuais contra 635 anteriores, com diferença absoluta de 259.038 afetações. O aviso informa que este é um recorte de demonstração, não cobertura nacional.”'],
       ['2:30-3:30','Abrir Dossiê de JUREMA; mostrar indicadores e exportação','“O Dossiê explica o destaque com indicadores, histórico e confiança documental. A exportação gera dossie.md, registros.csv e manifesto.json. O pacote pode ser verificado depois contra alterações nos arquivos exportados.”'],
       ['3:30-4:15','Mostrar avisos e limitações','“O sistema não afirma causa. O município localiza o equipamento e não delimita necessariamente os consumidores afetados. Afetações reportadas não são consumidores únicos, e ausência de dados não equivale a ausência de interrupções.”'],
-      ['4:15-5:00','Câmera,'“A ANEEL atualiza a base mensalmente. O processo ingere, valida e publica uma nova versão somente quando os dados estão consistentes, preservando a versão anterior em caso de falha. O resultado é uma triagem repetível, com evidência que sustenta a próxima investigação.”'],
+      ['4:15-5:00','Câmera','“A ANEEL atualiza a base mensalmente. O processo ingere, valida e publica uma nova versão somente quando os dados estão consistentes, preservando a versão anterior em caso de falha. O resultado é uma triagem repetível, com evidência que sustenta a próxima investigação.”'],
       ['','',''],
       ['','',''],
       ['','',''],
