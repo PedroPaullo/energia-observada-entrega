@@ -1,5 +1,6 @@
 """Investigation workspace; calculations remain in the analytical service."""
 import json
+import os
 from pathlib import Path
 
 import pandas as pd
@@ -27,6 +28,11 @@ def render():
     st.markdown('<div class="eyebrow">ANEEL / EVIDÊNCIA ABERTA</div>', unsafe_allow_html=True)
     st.title("Energia Observada")
     st.write("**Qual conjunto merece investigação neste mês — e quais registros sustentam esse destaque?**")
+    # Execução direta (`streamlit run app.py`) usa a demonstração local quando
+    # nenhum diretório foi informado. O comando `demo --launch` continua
+    # podendo sobrescrever ENERGIA_DATA_DIR explicitamente.
+    if "ENERGIA_DATA_DIR" not in os.environ and (Path(__file__).parent / "data-demo" / "active.json").exists():
+        os.environ["ENERGIA_DATA_DIR"] = str(Path(__file__).parent / "data-demo")
     state = service.status()
     active = state["active"]
     if not active:
