@@ -18,7 +18,7 @@ O Energia Observada transforma essa primeira triagem em uma fila explicável. A 
 
 **[apontar para o aviso amarelo]**
 
-Aqui a própria interface informa: ‘AMOSTRA AUTÊNTICA ANEEL · recorte de demonstração. Não representa cobertura nacional; em comparação nacional bloqueado.’ Portanto, estes números são reais para o recorte demonstrativo, mas não são apresentados como cobertura nacional.
+Aqui a própria interface informa: ‘AMOSTRA AUTÊNTICA ANEEL · recorte de demonstração. Não representa cobertura nacional; em comparação nacional bloqueado.’ Portanto, estes números são reais para o recorte demonstrativo, mas não são apresentados como cobertura nacional. A mesma lógica pode ser aplicada a outras distribuidoras quando seus dados estiverem carregados e validados.
 
 **[apontar para a coluna de variação absoluta]**
 
@@ -54,7 +54,7 @@ A diferença é prática: o analista não guarda apenas uma lista de conjuntos. 
 
 “Esses números precisam ser interpretados com cuidado. A interface deixa explícito: ‘O município localiza o equipamento. Não delimita necessariamente os consumidores afetados.’ Portanto, afetações reportadas não são automaticamente consumidores únicos.
 
-O produto também não diz que o aumento de interrupções prova uma causa. Ele apoia a investigação, mas não substitui análise regulatória ou técnica. E ausência de dados não equivale a ausência de interrupções. Essas limitações ficam junto da evidência, para evitar que uma triagem seja apresentada como diagnóstico causal.”
+O produto também não diz que o aumento de interrupções prova uma causa. Ele apoia a investigação, mas não substitui análise regulatória ou técnica. E ausência de dados não equivale a ausência de interrupções; a ausência de um município neste recorte também não prova que não houve interrupções. Essas limitações ficam junto da evidência, para evitar que uma triagem seja apresentada como diagnóstico causal.”
 
 **Tempo acumulado: 4:15.**
 
@@ -69,4 +69,5 @@ O produto também não diz que o aumento de interrupções prova uma causa. Ele 
 O resultado é uma triagem repetível: selecionar um conjunto, entender por que ele foi destacado, abrir o Dossiê, conferir os registros originais e exportar as evidências. O Energia Observada não promete explicar a causa. Ele torna a próxima investigação mais rápida, rastreável e limitada ao que os dados realmente permitem afirmar.”
 
 **Tempo acumulado: 5:00.**
+
 
